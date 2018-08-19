@@ -2,10 +2,14 @@ package pack1;
 
 public class Sample1 {
 	
-	
+int a = 10;	
 	
 	
 public void m1() {
+
+int x=10;
+int y=20;
+int z
 	
 		}
 	
