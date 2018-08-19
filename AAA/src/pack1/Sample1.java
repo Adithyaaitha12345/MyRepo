@@ -2,7 +2,7 @@ package pack1;
 
 public class Sample1 {
 	
-	
+int a = 10;	
 	
 	
 public void m1() {
